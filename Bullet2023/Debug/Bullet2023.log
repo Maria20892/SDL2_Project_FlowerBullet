@@ -1,0 +1,5 @@
+﻿  Game.cpp
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\Bullet2023\Bullet2023\Game.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\Bullet2023\Bullet2023\main.cpp(1,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

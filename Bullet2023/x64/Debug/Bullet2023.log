@@ -1,0 +1,39 @@
+﻿  FontTextures.cpp
+  GameObject.cpp
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\GameObject.cpp(7,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\GameObject.cpp(8,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\GameObject.cpp(9,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\GameObject.cpp(41,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\GameObject.cpp(42,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\GameObject.cpp(72,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\GameObject.cpp(73,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\SDL2\include\SDL_stdinc.h(499,1): message : see previous definition of 'M_PI'
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\LinkedList .h(85,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\LinkedList .h(86,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(126,75): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(191,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(423,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(426,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(432,128): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(432,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(437,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(437,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(437,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(437,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(479,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(483,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(483,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(490,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(570,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(888,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(897,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(901,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(902,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(1138,15): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\Bullet2023\main.cpp(1153,24): warning C4305: '+=': truncation from 'double' to 'float'
+  PlayerHealthBar.cpp
+  Textures.cpp
+  Generating Code...
+  Bullet2023.vcxproj -> D:\masha\politechnika\1Semester\basics_of_comp_progr\lab_summer\FlowerBullet2023\x64\Debug\Bullet2023.exe
