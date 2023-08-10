@@ -896,23 +896,24 @@ int main(int argc, char* argv[])
                 {
                     player->ypos = WINDOW_HEIGHT - (player->height); // Set player's Y position to the bottom boundary
                 }
-            }
-            // Update the camera position based on the player's position
-            camera.x = player->xpos - VISIBLE_WIDTH / 2;
-            camera.y = player->ypos - VISIBLE_HEIGHT / 2;
-
-            // Ensure the camera stays within the bounds of the stage
-            if (camera.x < 0) {
-                camera.x = 0;
-            }
-            if (camera.x > WINDOW_WIDTH - VISIBLE_WIDTH) {
-                camera.x = WINDOW_WIDTH - VISIBLE_WIDTH;
-            }
-            if (camera.y < 0) {
-                camera.y = 0;
-            }
-            if (camera.y > WINDOW_HEIGHT - VISIBLE_HEIGHT) {
-                camera.y = WINDOW_HEIGHT - VISIBLE_HEIGHT;
+            
+                // Update the camera position based on the player's position
+                camera.x = player->xpos - VISIBLE_WIDTH / 2;
+                camera.y = player->ypos - VISIBLE_HEIGHT / 2;
+    
+                // Ensure the camera stays within the bounds of the stage
+                if (camera.x < 0) {
+                    camera.x = 0;
+                }
+                if (camera.x > WINDOW_WIDTH - VISIBLE_WIDTH) {
+                    camera.x = WINDOW_WIDTH - VISIBLE_WIDTH;
+                }
+                if (camera.y < 0) {
+                    camera.y = 0;
+                }
+                if (camera.y > WINDOW_HEIGHT - VISIBLE_HEIGHT) {
+                    camera.y = WINDOW_HEIGHT - VISIBLE_HEIGHT;
+                }
             }
         }
        
